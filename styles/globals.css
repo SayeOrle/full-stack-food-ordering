@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  user-select: none;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.btn-primary {
+  @apply text-white px-[1.9rem] py-[0.5rem] rounded-3xl bg-primary cursor-pointer transition-all hover:opacity-70;
+}
+.slick-dots {
+  @apply !flex !items-center ;
+}
+.slick-dots li {
+  @apply !flex justify-start !items-center;
+}
+.slick-dots div{
+  @apply -translate-x-1/2
+}
+.slick-dots .slick-active div {
+  @apply bg-primary !h-full !w-full transition-all;
+}
+
+.slick-dots div {
+  @apply !m-0 !mt-24 bg-slate-200;
+}
+
+.container{
+  @apply mx-auto w-full  px-4
+}
