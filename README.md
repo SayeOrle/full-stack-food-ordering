@@ -37,5 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 <code><img width="100%" href=""></code>
 
 ![alt text](https://cdn.discordapp.com/attachments/954802881293328414/1043849781497299004/Annotation_2022-11-17_191932.png)
-https://cdn.discordapp.com/attachments/1028261419768098837/1043850072732991489/image.png
 ![alt text](https://cdn.discordapp.com/attachments/1028261419768098837/1043850072732991489/image.png)
